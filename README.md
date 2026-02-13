@@ -50,7 +50,23 @@
 
 ###
 
-<p align="left">The home page is the landing page of the system.<br><br>➜ 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐛𝐚𝐫: Home, About Us, Book Event, Contact, Login (dropdown with Customer Login & Admin Login).<br><br>➜ Automatic image slider showcasing events.<br><br>➜ About Us section describing Suma Events.<br><br>➜ Events section displaying all event types:<br>↳ Clicking an event redirects to Book Event page if logged in.<br>↳ If not logged in, the user is prompted to login first.<br><br>➺ Contact section with address, email, and phone number.</p>
+<p align="left">
+  The home page is the landing page of the system.
+  <br><br>
+  ➜ 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐛𝐚𝐫: Home, About Us, Book Event, Contact, Login (dropdown with Customer Login & Admin Login).
+  <br><br>
+  ➜ Automatic image slider showcasing events.
+  <br><br>
+  ➜ About Us section describing Suma Events.
+  <br><br>
+  ➜ Events section displaying all event types:
+  <br>
+  ↳ Clicking an event redirects to Book Event page if logged in.
+  <br>
+  ↳ If not logged in, the user is prompted to login first.
+  <br><br>
+  ➺ Contact section with address, email, and phone number.
+</p>
 
 ###
 <img src="Screenshots/Home1.png" alt="Home Page"/>
